@@ -6,5 +6,5 @@
   "dontShowAdsUntilPlayerRank": "8",
   "showInterstitialCount": "3",
   "config": "http://worldtimeapi.org/api/timezone/Europe/London|null",
-  "version": "248"
+  "version": "251"
 }

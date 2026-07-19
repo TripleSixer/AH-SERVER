@@ -1,6 +1,6 @@
 { 
   "version": "251",
-  "showInterstitialCount": "3", 
+  "showInterstitialCount": "2", 
   "dontShowAdsUntilPlayerRank": "0",
   "maxAliveEnemies": "13",
   "enemyHealthDifficulty0": "2300",

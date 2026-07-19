@@ -3,7 +3,7 @@
   "showInterstitialCount": "2", 
   "dontShowAdsUntilPlayerRank": "0",
   "maxAliveEnemies": "13",
-  "enemyHealthDifficulty0": "2300",
+  "enemyHealthDifficulty0": "120",
   "enemyHealthDifficulty1": "1100",
-  "enemyHealthDifficulty2": "120" 
+  "enemyHealthDifficulty2": "2300"
 }

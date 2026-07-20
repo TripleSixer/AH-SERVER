@@ -5,5 +5,8 @@
   "maxAliveEnemies": "13",
   "enemyHealthDifficulty0": "120",
   "enemyHealthDifficulty1": "1100",
-  "enemyHealthDifficulty2": "2300"
+  "enemyHealthDifficulty2": "2300",
+  "totalEnemyInGameModeMax": "100",
+  "totalEnemyInGameModeMin": "90"
+  
 }
